@@ -70,6 +70,7 @@ Internal skills in this collection:
 - [tool-design](skills/tool-design/SKILL.md)
 - [context-optimization](skills/context-optimization/SKILL.md)
 - [evaluation](skills/evaluation/SKILL.md)
+- [finding-purpose-beyond-self](skills/finding-purpose-beyond-self/SKILL.md)
 
 External resources on context engineering:
 - Research on attention mechanisms and context window limitations

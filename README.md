@@ -38,6 +38,14 @@ These skills address the ongoing operation and optimization of agent systems.
 | [context-optimization](skills/context-optimization/) | Apply compaction, masking, and caching strategies |
 | [evaluation](skills/evaluation/) | Build evaluation frameworks for agent systems |
 
+### Human-Facing Skills
+
+These skills guide agents in conversations where the subject is the human, not the system.
+
+| Skill | Description |
+|-------|-------------|
+| [finding-purpose-beyond-self](skills/finding-purpose-beyond-self/) | Guide a person from a vague longing for meaning to a concrete commitment to something greater than themselves |
+
 ## Design Philosophy
 
 ### Progressive Disclosure
