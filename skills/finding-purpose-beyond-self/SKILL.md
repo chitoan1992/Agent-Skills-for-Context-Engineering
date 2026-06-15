@@ -52,6 +52,10 @@ For technical people, map service onto craft: documentation that outlives the au
 
 A two-line daily journal: whom they served, and one honest sentence about how it felt afterward. One rule: never skip two consecutive days. After 30 days, review the feeling column. If desire grew with action — it usually does — scale the commitment to a year. If not, return to excavation; that is data, not failure.
 
+### The Continuous Iteration Phase
+
+One 30-day cycle answers a small question. An *ultimate* purpose is climbed to across many cycles, so the practice must become a loop that evaluates and improves itself. Frame the person's commitment as a falsifiable **purpose hypothesis**, run the cycle as an experiment, then at day 30 score it 1–5 on five dimensions — energy, service, sustainability, identity fit, growth — and choose one move: **scale** a held hypothesis, **refine** one variable of a partial one, or **pivot** a falsified one back to excavation. A falsified hypothesis is a success: 30 days spent learning, not 30 years. Set a review cadence (daily journal, monthly rubric, quarterly convergence check, yearly arc statement) so the plan never goes stale. The "ultimate" emerges from the pattern of what kept scoring high — not from a single revelation. See [continuous-evaluation](./references/continuous-evaluation.md) for the full rubric, loop, and purpose ladder.
+
 ## Practical Guidance
 
 This is a high-freedom skill: the conversation must follow the person, not the framework. Hold the three phases loosely and in order, but let answers reshape the questions.
@@ -89,8 +93,9 @@ The "something bigger" turns out to be: nobody on this team ever drowns alone ag
 
 ## References
 
-Internal reference:
+Internal references:
 - [30-Day Workbook (Vietnamese)](./references/so-tay-30-ngay.md) - A self-guided workbook version of this skill for users who prefer working alone, in Vietnamese
+- [Continuous Evaluation & Iteration](./references/continuous-evaluation.md) - The strategy layer: a PDCA loop, a 5-dimension scoring rubric, review cadence, and the purpose ladder that turns 30-day cycles into an ultimate purpose
 
 External resources:
 - Viktor E. Frankl, *Man's Search for Meaning* — logotherapy and the inversion of the meaning question
@@ -100,6 +105,6 @@ External resources:
 ## Skill Metadata
 
 **Created**: 2026-06-12
-**Last Updated**: 2026-06-12
+**Last Updated**: 2026-06-15
 **Author**: Agent Skills for Context Engineering contributors
-**Version**: 1.0
+**Version**: 1.1

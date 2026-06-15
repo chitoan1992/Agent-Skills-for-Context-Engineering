@@ -77,6 +77,67 @@ Mỗi ngày sau khi làm việc đã chọn, ghi đúng **2 dòng**:
 
 ---
 
+## Phần 5 — Vòng lặp liên tục: Đánh giá & cải tiến chính kế hoạch (sau mỗi chu kỳ)
+
+Một chu kỳ 30 ngày trả lời một câu hỏi nhỏ. **Mục đích sống tối hậu** được *leo lên* qua nhiều chu kỳ, nên việc thực hành phải trở thành một vòng lặp tự đánh giá và tự cải tiến.
+
+### Bước 1 — Viết "giả thuyết mục đích" (có thể bị bác bỏ)
+
+Đừng viết điều ước, hãy viết giả thuyết kiểm chứng được:
+
+> "Tôi tin mục đích của tôi liên quan đến việc **[động từ trong mẫu số chung]** cho **[người/nhóm cụ thể]**, vì khi làm điều đó tôi thấy **[X]** và nó tạo ra **[lợi ích cụ thể cho họ]**."
+
+Việc phục vụ 30 ngày chính là **thí nghiệm** kiểm chứng giả thuyết này.
+
+### Bước 2 — Chấm điểm chu kỳ (ngày 30)
+
+Cho điểm 1–5 mỗi cột. Cách này thay "cảm thấy thế nào?" bằng bằng chứng so sánh được giữa các chu kỳ:
+
+| Tiêu chí | Câu hỏi | Điểm 1–5 |
+|---|---|---|
+| Năng lượng | Nó cho nhiều hơn lấy đi không? | |
+| Phục vụ | Tôi chỉ ra được điều gì đã đổi khác cho họ không? | |
+| Bền vững | Tôi làm việc này cả năm được không? | |
+| Đúng với mình | Nó có giống *chính tôi* không? | |
+| Trưởng thành | Nó có làm tôi lớn lên không? | |
+
+**Tổng / 25.** Ghi lại con số — quan trọng là *xu hướng qua các chu kỳ*, không phải con số đơn lẻ.
+
+### Bước 3 — Chọn một nước đi
+
+- **20–25 → MỞ RỘNG:** giả thuyết đang đúng. Tăng cam kết (nhiều thời gian / nhiều người / kéo dài 90 ngày). Đây là cách 30 phút/ngày lớn dần thành việc cả đời.
+- **12–19 → TINH CHỈNH:** đúng một phần. Đổi *một* biến (người nhận, việc cụ thể, giờ làm) — cột điểm thấp nhất chính là thứ cần sửa — rồi chạy lại.
+- **Dưới 12 → CHUYỂN HƯỚNG:** quay lại Phần 1, viết giả thuyết mới. Mất 30 ngày để biết mình sai còn hơn mất 30 năm. Đây không phải thất bại — đây là con đường nhanh nhất đến sự thật.
+
+**Luôn viết lại giả thuyết** cuối mỗi chu kỳ, dù chỉ sắc bén thêm một chữ. Giả thuyết tiến hóa *chính là* cuộc tìm kiếm đang thành công.
+
+### Nhịp soát lại
+
+| Khi nào | Thời lượng | Làm gì |
+|---|---|---|
+| Hằng ngày | 1 phút | Nhật ký 2 dòng |
+| Hằng tháng | 30 phút | Chấm rubric, chọn MỞ RỘNG/TINH CHỈNH/CHUYỂN HƯỚNG, viết lại giả thuyết |
+| Hằng quý | 1 giờ | Đọc 3 giả thuyết gần nhất — chúng có hội tụ không? |
+| Hằng năm | nửa ngày | Viết "câu tuyên ngôn vòng cung" của năm |
+
+### Cái thang mục đích
+
+Mục đích tối hậu được *leo lên*, không phải chọn từ trên đỉnh:
+
+```
+Năm 3+  : Mục đích tối hậu (hướng đi đáng dành cả đời)
+Năm 1–2 : Một mạch xuyên suốt qua nhiều chu kỳ
+Quý     : Một lý tưởng được xác nhận (3 chu kỳ cùng chỉ một hướng)
+Tháng   : Một việc được xác nhận (một chu kỳ ≥ 20 điểm)
+Ngày 1  : Một giả thuyết (một phỏng đoán đáng 30 ngày)
+```
+
+Cái "tối hậu" hiện ra từ *mẫu hình của những gì liên tục đạt điểm cao* — không phải từ một khoảnh khắc bừng sáng. Bạn không cần thấy đỉnh thang để leo bậc tiếp theo.
+
+**Câu tuyên ngôn vòng cung (viết mỗi năm):** *"Qua các chu kỳ năm nay, mạch xuyên suốt là ______. Phiên bản của nó mà tôi sẵn lòng dành cả năm tới để theo đuổi là ______."*
+
+---
+
 ## Ghim cuối sổ
 
 - Điều lớn lao luôn bắt đầu nhỏ và có tên riêng.
