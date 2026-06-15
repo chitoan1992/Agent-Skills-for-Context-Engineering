@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//finding-purpose-beyond-self//Reminder Loop//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Purpose Beyond Self - Reminder Loop
+BEGIN:VEVENT
+UID:purpose-daily-journal@finding-purpose
+DTSTAMP:20260615T044400Z
+DTSTART:20260616T210000
+DURATION:PT2M
+RRULE:FREQ=DAILY
+SUMMARY:Two-line journal: who did I serve? how did it feel?
+DESCRIPTION:Write exactly two lines: who/what I served today + one honest s
+ entence about how it felt. Rule: never skip two days in a row.
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Two-line journal: who did I serve? how did it feel?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:purpose-weekly-notice@finding-purpose
+DTSTAMP:20260615T044400Z
+DTSTART:20260621T200000
+DURATION:PT5M
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:Re-read this week's journal - just notice\, change nothing
+DESCRIPTION:Read the last 7 entries. Adjust nothing this week\; only notice
+  patterns in the 'how it felt' column.
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Re-read this week's journal - just notice\, change nothing
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:purpose-cycle-review@finding-purpose
+DTSTAMP:20260615T044400Z
+DTSTART:20260715T200000
+DURATION:PT30M
+RRULE:FREQ=DAILY;INTERVAL=30
+SUMMARY:Score the cycle /25 - then Scale / Refine / Pivot
+DESCRIPTION:Day 30 review. Rate energy\, service\, sustainability\, identit
+ y fit\, growth (1-5 each). 20-25 SCALE\, 12-19 REFINE one variable\, below
+  12 PIVOT to a new hypothesis. Rewrite the purpose hypothesis.
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Score the cycle /25 - then Scale / Refine / Pivot
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:purpose-quarter-check@finding-purpose
+DTSTAMP:20260615T044400Z
+DTSTART:20260913T190000
+DURATION:PT60M
+RRULE:FREQ=DAILY;INTERVAL=90
+SUMMARY:Convergence check - read the last 3 hypotheses side by side
+DESCRIPTION:Are the last three cycle hypotheses pointing the same way? A re
+ peating through-line is the next rung of the purpose ladder.
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Convergence check - read the last 3 hypotheses side by side
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:purpose-yearly-arc@finding-purpose
+DTSTAMP:20260615T044400Z
+DTSTART:20270615T100000
+DURATION:PT240M
+RRULE:FREQ=YEARLY
+SUMMARY:Yearly arc statement - the through-line worth next year
+DESCRIPTION:Write: 'Across this year's cycles the through-line was ___. The
+  version I'm willing to give next year to is ___.'
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Yearly arc statement - the through-line worth next year
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -138,6 +138,26 @@ Cái "tối hậu" hiện ra từ *mẫu hình của những gì liên tục đ�
 
 ---
 
+## Phần 6 — Lịch nhắc nhở (đã lên sẵn cho bạn)
+
+Nhịp soát lại chỉ hữu ích khi nó tự kêu lên đúng lúc. Dưới đây là lịch cụ thể đã neo ngày — cũng chính là nội dung file `purpose-reminders.ics` để bạn nhập vào Google/Apple Calendar (nó tự lặp, không cần phiên chat nào còn sống).
+
+**Chu kỳ Ngày 1 = 16/06/2026.** Năm nhắc nhở lặp:
+
+| # | Nhắc gì | Giờ mặc định | Lặp | Lần đầu |
+|---|---|---|---|---|
+| 1 | Nhật ký 2 dòng (phục vụ ai? cảm giác?) | 21:00 | mỗi ngày | 16/06/2026 |
+| 2 | Đọc lại nhật ký tuần — chỉ để ý | CN 20:00 | hằng tuần | 21/06/2026 |
+| 3 | Chấm rubric /25 → Mở rộng / Tinh chỉnh / Chuyển hướng | 20:00 | mỗi 30 ngày | 15/07/2026 |
+| 4 | Soát hội tụ — đọc 3 giả thuyết gần nhất | 19:00 | mỗi 90 ngày | 13/09/2026 |
+| 5 | Câu tuyên ngôn vòng cung | 10:00 | hằng năm | 15/06/2027 |
+
+**Cách nhập lịch:** Google Calendar → Settings → Import & export → Import → chọn file `purpose-reminders.ics`. (Apple Calendar: File → Import. Outlook: Import an iCalendar file.) Nhập xong cứ chỉnh giờ tùy ý — lịch là giàn giáo, không phải luật.
+
+**Muốn đổi ngày bắt đầu/giờ/ngôn ngữ?** Chạy lại script sinh lịch: `python scripts/generate_reminders.py --start 2026-07-01 --journal-time 22:00 --lang vi`.
+
+---
+
 ## Ghim cuối sổ
 
 - Điều lớn lao luôn bắt đầu nhỏ và có tên riêng.
